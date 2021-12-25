@@ -4,6 +4,7 @@
 =============================================================================
 단일 연결
 
+```
 #include <stdio.h>
 #include <malloc.h>
 
@@ -118,4 +119,4 @@ void main(void)
 	print_stack();
 	printf("\n popping value is %d", i);
 }	
-
+```

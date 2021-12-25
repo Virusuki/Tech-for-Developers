@@ -2,7 +2,7 @@
 <br>
 ####연결리스트를 사용하여 스택의 삽입, 삭제 알고리즘 구현
 =============================================================================
-> 단일 연결
+- 단일 연결
 
 ```
 #include <stdio.h>
@@ -120,3 +120,94 @@ void main(void)
 	printf("\n popping value is %d", i);
 }	
 ```
+
+- 다음과 같이 결과는 무엇인가?
+```
+x = 0, y = 1, z = 2;
+printf("%d", --x&&--y||--z);   답:  1
+printf("%d %d %d", x, y, z);   답: -1 0 1
+  
+x = 0, y = 1, z = 2;
+  
+printf("%d", --x||--y&&--z);   답:  1
+printf("%d %d %d", x, y, z);   답: -1 1 2
+```
+<br>
+- 다음과 같이 결과는 무엇인가? (garbage)
+
+```
+int x;
+
+void main(void)
+{
+  int x;
+  printf("%d", x++);     답: garbage
+  func();           답: x = garbage, y = 0
+  {
+    int x;  
+    printf("%d", x++);   답: garbage
+    {
+      extern int x;   
+      printf("%d", x++); 답: 0
+    }
+    func();         답: x = garbage, y = 1
+    printf("%d", x++);   답: x = garbage
+  }
+}
+  
+void func(void)
+{
+  int x;
+  static int y;
+  printf("%d", x++);
+  printf("%d", y++);
+}
+```
+
+
+- main의 명령행 매개변수를 이용하여 단어수를 알아내는 함수를 만들기
+```
+#include <stdio.h>
+#include <stdlib.h>
+#define IN 1
+#define OUT 0
+
+void main(int argc, char *argv[])
+{
+   
+int word_count = 0, state = OUT;
+char c;
+FILE *fp;
+  
+if (argc > 1)
+{
+  if ((fp = fopen(argv[1], "r")) == NULL)
+  {
+    printf("%s can't open.\n", argv[1]);
+    exit(1);
+  }
+   
+  while ((c = fgetc(fp)) != EOF)
+  {
+     if (c == ' ' || c == '\n' || c == '\t')
+     state = OUT;
+     else
+    {
+      state = IN;
+      ++word_count;
+    }
+  }
+  printf(" Word number = %d\n", word_count);
+  fclose(fp);
+  }
+  else
+  {
+   printf("Wrong Input...retry!!!\n");
+   exit(1);
+  }
+}
+```
+
+
+
+

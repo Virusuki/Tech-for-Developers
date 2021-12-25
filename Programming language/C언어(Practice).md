@@ -1,4 +1,4 @@
-### 연결리스트
+### C언어 기반 자료구조 & 알고리즘 practics
 <br>
 ####연결리스트를 사용하여 스택의 삽입, 삭제 알고리즘 구현
 =============================================================================
@@ -208,6 +208,65 @@ if (argc > 1)
 }
 ```
 
+- 한개의 배열을 이용하여 이중 스택을 구현하고 최적의 삽입, 삭제 알고리즘 구현
 
+```
+#include <stdio.h>
+#include <stdlib.h>
+#define MEMORY 10
 
+static int stack[MEMORY];
+int top1 = 0;
+int top2 = MEMORY-1;
+
+void add(int, int);
+int deleted(int);
+
+void main(void)
+{
+  int result;
+  add(1, 10);
+  result = deleted(1);
+  printf("스택 1에서 빼낸 값 %d \n", result);
+  
+  add(2, 20);
+  result = deleted(2);
+  printf("스택2 에서 빼낸 값 %d \n", result);
+}
+
+void add(int i, int item)
+{
+  if (top1 == top2)
+  {
+    printf("stack full\n");
+    exit(1);
+  }
+  if (i==1)
+   stack[top1++] = item;
+  else
+   stack[top2--] = item;
+}
+
+int deleted(int i)
+{
+  if (i==1)
+  {
+    if (top1 <= 0)
+    {
+      printf("stack empty\n");
+      exit(1);
+    }
+   return stack[--top1];
+  }  
+  else
+  {
+    if (top2 >= MEMORY-1)
+    {
+      printf("stack empty\n");
+      exit(1);
+    }
+   return stack[++top2];
+  }
+}
+```
 

@@ -2,7 +2,7 @@
 Requirements for Developers
 
 
-## 📌:pencil: :rocket:  Language
+## :rocket:  Language
 
 - ### C
 

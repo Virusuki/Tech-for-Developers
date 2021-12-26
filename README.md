@@ -2,7 +2,7 @@
 Requirements for Developers
 
 
-## 📌☞☞ Language
+## 📌:pencil:  Language
 
 - ### C
 

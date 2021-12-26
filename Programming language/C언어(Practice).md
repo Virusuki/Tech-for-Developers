@@ -1,6 +1,7 @@
-### C언어 기반 자료구조 & 알고리즘 practics
+## C언어 기반 자료구조 & 알고리즘 practics
 <br>
-####연결리스트를 사용하여 스택의 삽입, 삭제 알고리즘 구현
+
+###연결리스트를 사용하여 스택의 삽입, 삭제 알고리즘 구현
 =============================================================================
 - 단일 연결
 
@@ -268,5 +269,60 @@ int deleted(int i)
    return stack[++top2];
   }
 }
+```
+
+- macro(#define...)
+
+```
+#include <stdio.h>
+#define SWAP(x,y) {int temp; temp=x; x=y; y=temp;}
+void main()
+{
+  int a, b;
+  scanf("%d %d", &a, &b);
+  SWAP(a, b);
+  printf("a = %d b = %d\n", a, b);
+}
+```
+
+- 문자열(str)을 float형으로 바꿔주는 함수 myatof(str)를 구현!
+예시) "-23.1" ---> -23.1
+```
+#include <stdio.h>
+
+float myatof(char *);
+void main()
+{
+  char a[10] = "-23.12";
+  float result;
+  result = myatof(a);
+  printf("%lf\n", result);
+	
+  getch();
+}
+	
+float myatof(char *str)
+{
+  float i = 1, result = 0;	//결과 값
+  int sign = 1	// 부호표시
+  char in;
+		
+  if (*str == '-')	//음수라면 m을 -1로 세팅
+  {
+    sign = -1;
+    str++;
+  }
+		
+  while((in = *str++) != '.' || (in = i) == NULL))	// 소수점 만나기.
+    result = (result*10.0) + (in - '0');
+    while((in = *str++) != NULL)	// 소수점 이후의 계산.
+    {
+       i *= 0.1;			// 소수점 이후에는 0.1을 곱한다.
+       result = result + (in - '0')*i;
+    }
+			
+    return sign * result;		//부호 계산하여 리턴시킨다.
+}
+
 ```
 

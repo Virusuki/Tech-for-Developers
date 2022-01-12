@@ -24,6 +24,37 @@ def dfs_recur(v, discovered=[]):
 print(dfs_recur(1))
 ```
 
+- DFS 응용 (여행 일정 재구성)
 
+```
+from typing import List
+import collections
+
+class Solution:
+    def findItinerary(self, tickets: List[List[int]]) -> List[str]:
+        graph = collections.defaultdict(list)
+
+        for a, b in sorted(tickets, reverse=True):
+            graph[a].append(b)
+
+        route = []
+        def dfs(a):
+            while graph[a]:
+                dfs(graph[a].pop())
+            route.append(a)
+
+        dfs('JFK')
+        return route[::-1]
+
+
+graph = [["JFK", "SF0"], ["JFK", "ATL"], ["SF0", "ATL"], ["ATL", "JFK"], ["ATL", "SF0"]]
+
+print(sorted(graph, reverse=True))
+
+aa = []
+ans = Solution()
+aa=ans.findItinerary(graph)
+print(aa)
+```
 
 

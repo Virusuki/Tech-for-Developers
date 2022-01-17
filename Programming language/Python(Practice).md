@@ -58,3 +58,30 @@ print(aa)
 ```
 
 
+
+- json 포맷 파일 파싱
+```
+import collections
+
+data = {'number_of_movies': 3, 'movie_info': {'romance': {'1': {'Movie title': 'titanic', 'Jenre': 'romance', 'year': 1997}}, 'sf': {'2': {'Movie title': 'spiderman', 'Jenre': 'sf', 'year': 2021}, '3': {'Movie title': 'superman', 'Jenre': 'sf', 'year': 1979}}}}
+
+each_movie_info = {}
+i = 0
+for w in data:                                   # w  ->  'number_of_movies', 'movie_info'
+#    print(w)
+    if type(data[w]) is dict:
+        for two_w in data[w]:                    # two_w -> romance, sf            
+            if type(data[w][two_w]) is dict:
+                for three_w in data[w][two_w]:   # three_w -> 1,2,3
+                    each_movie_info[i] = data[w][two_w][three_w]
+                    i += 1
+
+for z in range(len(each_movie_info), 14):
+    each_movie_info[z]  = 'Unscreened'
+
+for k in each_movie_info:
+    print(each_movie_info[k])
+
+print(each_movie_info[1]['Movie title'])
+```
+

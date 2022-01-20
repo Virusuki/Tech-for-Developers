@@ -15,4 +15,4 @@ Requirements for Developers
 
 - ### Devops
 
-  - [[Devops] Roadmap] (https://github.com/Virusuki/Tech-for-Developers/blob/main/Software%20Architecture%20&%20Engineering/Devops-roadmap.md)
+  - [[Devops] Roadmap](https://github.com/Virusuki/Tech-for-Developers/blob/main/Software%20Architecture%20&%20Engineering/Devops-roadmap.md)

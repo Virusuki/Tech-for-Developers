@@ -90,5 +90,42 @@ https://programmers.co.kr/learn/courses/30/lessons/17682
 
 ```
 
+def solution(dart_board):
+    score = []
+    n = ''
+    
+    for pin in dart_board:
+        if pin.isnumeric():
+            n += pin
+        
+        elif pin == 'S':
+            n = int(n)**1
+            score.append(n)
+            n=''
+        elif pin == 'D':
+            n = int(n)**2
+            score.append(n)
+            n=''
+        elif pin == 'T':
+            n = int(n)**3
+            score.append(n)
+            n=''
+        elif pin == '*':
+            if len(score) > 1:
+                score[-2] = score[-2] * 2
+                score[-1] = score[-1] * 2
+            else:
+                score[-1] =score[-1] *2
+        elif pin == '#':
+            score[-1] = score[-1] * (-1)
+    
+    return sum(score)
+
+
+dart_res = '1S2D*3T'
+
+res = solution(dart_res)
+
+print(res)    
 ```
 

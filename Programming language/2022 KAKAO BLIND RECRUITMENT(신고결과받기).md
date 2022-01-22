@@ -1,5 +1,6 @@
 # 신고 결과 받기
 
+```
 from collections import defaultdict 
 
 def solution(id_list, report, k):
@@ -37,3 +38,4 @@ report = ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"]
 
 ans = solution(id_list, report, 2)
 print(ans)
+```

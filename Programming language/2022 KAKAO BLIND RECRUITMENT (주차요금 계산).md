@@ -1,3 +1,6 @@
+https://programmers.co.kr/learn/courses/30/lessons/92341
+
+```
 import math
 
 def convert_to_time(date):
@@ -61,3 +64,4 @@ records = [
 
 answer = solution(fees, records)
 print(answer)
+```

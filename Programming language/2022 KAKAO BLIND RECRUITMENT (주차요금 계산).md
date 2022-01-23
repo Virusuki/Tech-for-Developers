@@ -1,9 +1,17 @@
-https://programmers.co.kr/learn/courses/30/lessons/92341
+## 2022 KAKAO BLIND RECRUITMENT
+### 주차요금 계산
+
+문제 - https://programmers.co.kr/learn/courses/30/lessons/92341
+
+- 이 문제의 포인트는 주차번호 오름차순을 위한 람다를 이용한 sort_list.sort(key=lambda x: x[0]) 함수 부분과 
+  math.ceil()함수를 사용한 반올림이다.
+
+
 
 ```
 import math
 
-def convert_to_time(date):
+def convert_to_time(date):                 # 해당 함수는 주차시간 예)05:34 에 대한 시간+분을 파싱하여 minute(분) 추출 함수
     h, m = map(int,date.split(':'))
 #    print(h, m)
     return h*60 + m
@@ -11,8 +19,6 @@ def convert_to_time(date):
 
 def solution(fees, records):
     answer = []
-    in_time = {}
-    total_time = []
     
     in_out_record = dict()
     

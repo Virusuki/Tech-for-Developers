@@ -43,13 +43,13 @@ def solution(fees, records):
              else:
                  m_time += car_times[0]
          
-         if car_his[1][-1][1] == 'IN':
+         if car_his[1][-1][1] == 'IN':           # 최근 차량의 IN입차 이후 OUT 출차가 없을 시에 23:59분까지 정산함
             m_time += convert_to_time('23:59')
             
          
-         if fees[0] >= m_time:
+         if fees[0] >= m_time:                   # 주차한 시간이 기본시간 안팍이면 기본금으로 계산
              answer.append(fees[1])
-         else:
+         else:                                   # 주차한 시간이 기본시간 초과하면 초과된 금액으로 계산
              print(m_time)
              answer.append(fees[1]+ math.ceil((m_time-fees[0])/10) * 600)
 

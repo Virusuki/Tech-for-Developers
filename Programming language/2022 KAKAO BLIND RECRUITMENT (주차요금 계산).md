@@ -26,13 +26,13 @@ def solution(fees, records):
         time, car_num, flag  = r.split()
         car_num = int(car_num)
         
-        if car_num in in_out_record:
+        if car_num in in_out_record:         # in_out_record(dict)변수에 key='주차번호' : value='시간(hour,minute)', 'IN/OUT의 flag'
             in_out_record[car_num].append([convert_to_time(time), flag])
         else:
             in_out_record[car_num] = [[convert_to_time(time), flag]]
     
-    sort_list = list(in_out_record.items())
-    sort_list.sort(key=lambda x: x[0])
+    sort_list = list(in_out_record.items())  # 전체 주차번호 오름차순 정렬을 위한 dict->list 변환
+    sort_list.sort(key=lambda x: x[0])       # 람다를 활용한 x[0]번째 차량번호 기준 오름차순 정렬
     
     for car_his in sort_list:
          m_time = 0

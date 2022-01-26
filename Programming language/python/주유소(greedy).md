@@ -1,5 +1,8 @@
 #Greedy(그리디) 알고리즘 - 주유소
 
+문제 (리트코드) - https://leetcode.com/problems/gas-station/
+
+```
 def gas_station(gas, cost):
     if sum(gas) < sum(cost):
         return -1
@@ -24,3 +27,4 @@ gas = [1,2,3,4,5]
 cost = [3,4,5,1,2]
 
 res = gas_station(gas, cost)
+```

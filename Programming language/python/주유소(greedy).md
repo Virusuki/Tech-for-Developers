@@ -1,4 +1,4 @@
-#Greedy(그리디) 알고리즘 - 주유소
+# Greedy(그리디) 알고리즘 - 주유소
 
 문제 (리트코드) - https://leetcode.com/problems/gas-station/
 

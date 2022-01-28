@@ -1,0 +1,24 @@
+import itertools
+from collections import Counter
+
+orders = ["ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"]
+
+course = [2,3,4]
+
+answer = []
+
+for single_course in course:
+    temp = []
+    for order in orders:
+        combi = itertools.combinations(order, single_course) 
+              
+        temp += combi
+
+    counter = Counter(temp)
+    print(counter)
+#    print(max(counter.values()))
+
+    if len(counter) != 0 and max(counter.values()) != 1:
+        answer += {''.join(ord) for ord in counter if counter[ord] == max(counter.values())}
+
+print(sorted(answer))

@@ -19,6 +19,8 @@ Requirements for Developers
   - [[Python]끝말잇기 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python]주유소 (그리디 알고리즘-리트코드)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%A3%BC%EC%9C%A0%EC%86%8C(greedy).md)
 
+- [[Python]미로탐색 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89(%EB%B0%B1%EC%A4%80).md)
+
   - [[Python]2022 KAKAO BLIND RECRUITMENT 신고 결과 받기](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/2022%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0).md)
   - [[Python]2022 KAKAO BLIND RECRUITMENT 주차 요금 계산](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/2022%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0).md)
   - [[Python]2022 KAKAO BLIND RECRUITMENT 메뉴리뉴얼](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2022%20KAKAO%20BLIND%20RECRUITMENT%20(%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC).md)

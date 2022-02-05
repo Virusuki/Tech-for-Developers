@@ -2,6 +2,7 @@
 
 - 문제 : https://programmers.co.kr/learn/courses/30/lessons/72413
 
+```
 def dijkstra(start, arrive):
     
     INF = float('INF')
@@ -50,3 +51,4 @@ for sn in range(N):
     total_weight = min(total_weight, dijkstra(sn, s) + dijkstra(sn, a) + dijkstra(sn, b))
 
 print(total_weight)
+```

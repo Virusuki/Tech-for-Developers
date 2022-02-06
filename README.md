@@ -8,7 +8,10 @@ Requirements for Developers
 
   - [[C] C언어 Practics](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/C%EC%96%B8%EC%96%B4(Practice).md)
 
-- ### Python
+- ### Python 자료구조
+  - [[Python] 링크드리스트](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EA%B8%B0%EB%B3%B8).md)
+  
+- ### Python 알고리즘
   - [[Python] Python언어 Practics](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/C%EC%96%B8%EC%96%B4(Practice).md)
 
   - [[Python] 계단오르기(다이나믹프로그래밍-메모이제이션)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98).md)

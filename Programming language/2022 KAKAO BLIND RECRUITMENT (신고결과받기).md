@@ -3,8 +3,8 @@
 
 문제 - https://programmers.co.kr/learn/courses/30/lessons/92334
 
-이 문제의 접근 방식은 dictionary(딕셔너리)와 defaultdict를 사용
-defaultdict는 value의 타입만 지정해준다면 key 값에 매핑되는 value를 디폴트 값으로 지정되어 있다.
+- 이 문제의 접근 방식은 dictionary(딕셔너리)와 defaultdict를 사용
+- defaultdict는 value의 타입만 지정해준다면 key 값에 매핑되는 value를 디폴트 값으로 지정되어 있다.
 
 
 ```

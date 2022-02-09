@@ -23,6 +23,7 @@ Requirements for Developers
   - [[Python] 끝말잇기 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 주유소 (그리디 알고리즘-리트코드)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%A3%BC%EC%9C%A0%EC%86%8C(greedy).md)
 
+  - [[Python] 거의 최단 경로 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EA%B1%B0%EC%9D%98%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C%20(%EB%B0%B1%EC%A4%80).md)
   - [[Python] 미로탐색 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89(%EB%B0%B1%EC%A4%80).md)
 
   - [[Python] 바이러스 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4(%EB%B0%B1%EC%A4%80).md)

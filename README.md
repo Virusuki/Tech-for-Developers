@@ -26,6 +26,7 @@ Requirements for Developers
   - [[Python] 미로탐색 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89(%EB%B0%B1%EC%A4%80).md)
 
   - [[Python] 바이러스 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4(%EB%B0%B1%EC%A4%80).md)
+  - [[Python] DFS와 BFS (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/DFS%EC%99%80%20BFS%20(%EB%B0%B1%EC%A4%80).md)
 
   - [[Python] 문제풀이 (위상정렬-백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4(%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC)-%EB%B0%B1%EC%A4%80.md)
 

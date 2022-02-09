@@ -39,6 +39,8 @@ Requirements for Developers
 
   - [[Python] 문제풀이 (위상정렬-백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4(%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC)-%EB%B0%B1%EC%A4%80.md)
 
+  - [[Python] 완전수 (구름)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%99%84%EC%A0%84%EC%88%98%20(goorm).md)
+
   - [[Python]2019 KAKAO 겨울 인턴쉽 (튜플)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%ED%8A%9C%ED%94%8C(%ED%8A%9C%ED%94%8C%20-%202019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%89%BD).md)
   - [[Python]2019 KAKAO BLIND RECRUITMENT (오픈채팅방)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2019%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9).md)
   - [[Python]2020 KAKAO BLIND RECRUITMENT (문자열 압축)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2020%20KAKAO%20BLIND%20RECRUITMENT%20(%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95).md)

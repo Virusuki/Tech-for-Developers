@@ -39,9 +39,10 @@ Requirements for Developers
 
   - [[Python] 문제풀이 (위상정렬-백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4(%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC)-%EB%B0%B1%EC%A4%80.md)
 
-  - [[Python]2019 KAKAO 겨울 인턴쉽 튜플](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%ED%8A%9C%ED%94%8C(%ED%8A%9C%ED%94%8C%20-%202019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%89%BD).md)
+  - [[Python]2019 KAKAO 겨울 인턴쉽 (튜플)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%ED%8A%9C%ED%94%8C(%ED%8A%9C%ED%94%8C%20-%202019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%89%BD).md)
+  - [[Python]2020 KAKAO BLIND RECRUITMENT (문자열 압축)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2020%20KAKAO%20BLIND%20RECRUITMENT%20(%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95).md)
   
-  - [[Python]2021 카카오 인턴쉽 숫자 문자열과 영단어](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/2022%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0).md)
+  - [[Python]2021 카카오 인턴쉽 숫자 (문자열과 영단어)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/2022%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0).md)
   - [[Python]2021 카카오 채용연계형 인턴십 (거리두기 확인하기)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20(%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0).md)
   - [[Python]2021 카카오 채용연계형 인턴십 (표 편집)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20(%ED%91%9C%20%ED%8E%B8%EC%A7%91).md)  
   - [[Python]2022 KAKAO BLIND RECRUITMENT 신고 결과 받기](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/2022%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0).md)

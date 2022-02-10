@@ -45,7 +45,7 @@ Requirements for Developers
   - [[Python]2019 KAKAO BLIND RECRUITMENT (오픈채팅방)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2019%20KAKAO%20BLIND%20RECRUITMENT%20(%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9).md)
   - [[Python]2020 KAKAO BLIND RECRUITMENT (문자열 압축)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2020%20KAKAO%20BLIND%20RECRUITMENT%20(%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95).md)
   
-  - [[Python]2021 카카오 인턴쉽 (숫자 문자열과 영단어)]
+  - [[Python]2021 카카오 인턴쉽 (숫자 문자열과 영단어)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD(%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4).md)
 
   - [[Python]2021 카카오 채용연계형 인턴십 (거리두기 확인하기)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20(%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0).md)
   - [[Python]2021 카카오 채용연계형 인턴십 (표 편집)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20(%ED%91%9C%20%ED%8E%B8%EC%A7%91).md)  

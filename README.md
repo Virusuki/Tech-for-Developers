@@ -22,6 +22,7 @@ Requirements for Developers
   - [[Python] 올바른 괄호 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 끝말잇기 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 주유소 (그리디 알고리즘-리트코드)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%A3%BC%EC%9C%A0%EC%86%8C(greedy).md)
+  - [[Python] 알파벳 개수 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98%20(%EB%B0%B1%EC%A4%80).md)
   - [[Python] 도서관 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%8F%84%EC%84%9C%EA%B4%80%20(%EB%B0%B1%EC%A4%80).md)
   - [[Python] 센서 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%84%BC%EC%84%9C%20(%EB%B0%B1%EC%A4%80).md)
   - [[Python] 거스름돈 (백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88%20(%EB%B0%B1%EC%A4%80).md)

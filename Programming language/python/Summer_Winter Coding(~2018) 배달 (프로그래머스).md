@@ -2,6 +2,7 @@
 
 문제 - https://programmers.co.kr/learn/courses/30/lessons/12978
 
+```
 import heapq
 
 def deliver(N, road, K):
@@ -44,3 +45,4 @@ for i in res:
     if i <= 3:
         answer += 1
 print(answer)
+```

@@ -21,7 +21,10 @@ Requirements for Developers
   - [[Python] 다익스트라 응용 (거의최단거리-백준)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC(%EB%B0%B1%EC%A4%80).md)
   - [[Python] Summer_Winter Coding(~2018) 배달 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/Summer_Winter%20Coding(~2018)%20%EB%B0%B0%EB%8B%AC%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 그래프 - 가장 먼 노드 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
-  - [[Python] 점프와 순간 이동 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
+  - [[Python] 프린터 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%ED%94%84%EB%A6%B0%ED%84%B0%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
+
+  - [[Python] DFS&BFS_단어 변환(프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
+  - [[Python] 점프와 순간 이동 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/DFS&BFS_%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 올바른 괄호 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 끝말잇기 (프로그래머스)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%20(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
   - [[Python] 주유소 (그리디 알고리즘-리트코드)](https://github.com/Virusuki/Tech-for-Developers/blob/main/Programming%20language/python/%EC%A3%BC%EC%9C%A0%EC%86%8C(greedy).md)

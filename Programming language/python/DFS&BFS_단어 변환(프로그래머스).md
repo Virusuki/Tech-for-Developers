@@ -3,6 +3,7 @@
 
 문제 - https://programmers.co.kr/learn/courses/30/lessons/43163
 
+```
 from collections import deque 
 
 def solution(begin, target, words):
@@ -38,3 +39,4 @@ target = "cog"
 res = solution(begin, target, words)
 
 print(res)
+```
